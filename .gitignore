@@ -1,1 +1,5 @@
 venv/
+notebooks/sample_submission.csv
+notebooks/train.csv
+notebooks/test.csv
+notebooks/store.csv
